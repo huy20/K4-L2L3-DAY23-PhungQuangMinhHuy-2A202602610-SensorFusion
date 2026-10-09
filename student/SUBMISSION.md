@@ -8,7 +8,7 @@
 - MSSV: 2A202602610
 - Email: minhhuy.phung03@gmail.com
 - Link repo (fork): https://github.com/huy20/K4-L3-Day23-PhungQuangMinhHuy-2A202602610
-- Commit hash nộp (`git rev-parse HEAD`): (điền sau khi commit CP6)
+- Commit hash nộp (`git rev-parse HEAD`): 15e70c7cca0ec372a9c529c7cb9d155e8056d735
 
 ## Tóm tắt kết quả
 
@@ -134,5 +134,5 @@ Ghi rõ, kể cả khi không dùng ("Không dùng AI"). Xem [RULES.md](../RULES
 - [ ] Đã commit `student/artifacts/metrics*.json` và `student/artifacts/grade_run*.log` (không sửa tay)
 - [x] Đã điền đủ file này, gồm khai báo AI
 - [x] Không commit dữ liệu Waymo, weights, `paths.yaml`, API key
-- [ ] `python tools/check_submission.py` báo `KẾT QUẢ: SẴN SÀNG NỘP`
-- [ ] Đã push và nộp link repo + commit hash trên LMS ([hướng dẫn nộp](../SUBMISSION.md))
+- [x] `python tools/check_submission.py` báo `KẾT QUẢ: SẴN SÀNG NỘP`
+- [x] Đã push và nộp link repo + commit hash trên LMS ([hướng dẫn nộp](../SUBMISSION.md))
